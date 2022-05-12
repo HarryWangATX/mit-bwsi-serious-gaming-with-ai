@@ -1,0 +1,2 @@
+model_checkpoint_path: "sgw_dqn_rl-agent-test_weights.h5f"
+all_model_checkpoint_paths: "sgw_dqn_rl-agent-test_weights.h5f"
